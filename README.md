@@ -11,6 +11,7 @@ The script needs 2 libraries which can be installed by running `sudo pip3 instal
 Just run `python3 truchet.py` to run the script. All arguments are optional.
 
 By default this image will be generated:
+
 ![default image](./imgs/truchet.svg "default image")
 
 The script is self documenting and takes these options:
